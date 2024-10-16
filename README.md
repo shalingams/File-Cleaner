@@ -3,6 +3,8 @@
 
 This application organizes files into different folders based on the file types. It provides a user-friendly interface where you can select a folder path and clean up the folder by sorting files into appropriate subfolders.
 
+![screenshot](Screenshot.png)
+Screenshot.png
 ## Features
 - Organizes files into different folders (e.g., documents, images, videos) based on file types.
 - Simple and intuitive UI.
